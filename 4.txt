@@ -1,4 +1,4 @@
-  Version: x.x.x.x (dd Mmm yyyy)
+   Version: x.x.x.x (dd Mmm yyyy)
 Branch: branch name
 Developer: Name Surname
 Description:
