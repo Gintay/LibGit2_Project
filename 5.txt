@@ -2,7 +2,7 @@
 Branch: branch name
 Developer: Name Surname
 Description:
-#xxxxx
+#x
 	- short description of changes
 
 "Changes in 2011.5.3.20:",
