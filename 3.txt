@@ -1,6 +1,0 @@
-Version: x.x.x.x (dd Mmm yyyy)
-Branch: branch name
-Developer: Name Surname
-Description:
-#xxxxx
-short description of changes
