@@ -1,3 +1,4 @@
+Some new changes
 Some new text
 qwe    Version: x.x.x.x (dd Mmm yyyy)
 Branch: branch name
