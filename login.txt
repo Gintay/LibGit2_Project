@@ -1,0 +1,282 @@
+[26-08-2016 15:31:07] - [INFO] Settings successfully loaded from file. 
+[26-08-2016 15:31:07] - [INFO] Service is Starting.... 
+[26-08-2016 15:31:07] - [INFO] Service successfully registered. 
+[26-08-2016 15:31:07] - [INFO] Service started. 
+[26-08-2016 15:31:07] - [INFO] Main scheduler started. 
+[26-08-2016 15:31:07] - [INFO] Start writing info to History file. 
+[26-08-2016 15:31:07] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[26-08-2016 15:31:11] - [INFO] Got stop request. 
+[26-08-2016 15:31:11] - [INFO] Main scheduler stopped. 
+[26-08-2016 15:31:11] - [INFO] Finish write info to History file. 
+[26-08-2016 15:31:11] - [INFO] after accept. 
+[26-08-2016 15:31:11] - [INFO] befor for. 
+[26-08-2016 15:31:11] - [INFO] after accept. 
+[26-08-2016 15:31:11] - [ERROR] Receive socked error. 
+[26-08-2016 15:31:11] - [INFO] befor for. 
+[26-08-2016 15:31:11] - [INFO] after accept. 
+[26-08-2016 15:31:11] - [ERROR] Receive socked error. 
+[26-08-2016 15:31:11] - [INFO] Service stopped. 
+[26-08-2016 15:31:11] - [INFO] befor for. 
+[26-08-2016 15:31:11] - [INFO] after accept. 
+[26-08-2016 15:31:11] - [ERROR] Receive socked error. 
+[26-08-2016 15:31:11] - [INFO] befor for. 
+[26-08-2016 15:31:11] - [INFO] after accept. 
+[26-08-2016 15:31:11] - [ERROR] Receive socked error. 
+[26-08-2016 15:31:11] - [INFO] befor for. 
+[26-08-2016 15:31:11] - [INFO] after accept. 
+[26-08-2016 15:31:11] - [ERROR] Receive socked error. 
+[26-08-2016 15:31:11] - [INFO] befor for. 
+[26-08-2016 15:31:11] - [INFO] after accept. 
+[26-08-2016 15:31:11] - [ERROR] Receive socked error. 
+[26-08-2016 15:31:11] - [INFO] befor for. 
+[26-08-2016 15:31:11] - [INFO] after accept. 
+[26-08-2016 15:31:11] - [ERROR] Receive socked error. 
+[26-08-2016 15:31:11] - [INFO] befor for. 
+[26-08-2016 15:31:11] - [INFO] after accept. 
+[26-08-2016 15:31:11] - [ERROR] Receive socked error. 
+[26-08-2016 15:31:11] - [INFO] befor for. 
+[26-08-2016 15:31:11] - [INFO] after accept. 
+[26-08-2016 15:31:11] - [ERROR] Receive socked error. 
+[26-08-2016 15:31:11] - [INFO] befor for. 
+[26-08-2016 15:31:11] - [INFO] after accept. 
+[26-08-2016 15:31:11] - [ERROR] Receive socked error. 
+[26-08-2016 15:31:11] - [INFO] befor for. 
+[26-08-2016 15:31:42] - [INFO] Settings successfully loaded from file. 
+[26-08-2016 15:31:42] - [INFO] Service is Starting.... 
+[26-08-2016 15:31:42] - [INFO] Service successfully registered. 
+[26-08-2016 15:31:42] - [INFO] Service started. 
+[26-08-2016 15:31:42] - [INFO] Main scheduler started. 
+[26-08-2016 15:31:42] - [INFO] Start writing info to History file. 
+[26-08-2016 15:31:42] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[26-08-2016 15:31:47] - [INFO] Got stop request. 
+[26-08-2016 15:31:47] - [INFO] Finish write info to History file. 
+[26-08-2016 15:31:47] - [INFO] Main scheduler stopped. 
+[26-08-2016 15:31:47] - [INFO] after accept. 
+[26-08-2016 15:31:47] - [INFO] befor for. 
+[26-08-2016 15:31:47] - [INFO] Network thread stoped. 
+[26-08-2016 15:31:47] - [INFO] Service stopped. 
+[26-08-2016 15:32:00] - [INFO] Settings successfully loaded from file. 
+[26-08-2016 15:32:00] - [INFO] Service is Starting.... 
+[26-08-2016 15:32:00] - [INFO] Service successfully registered. 
+[26-08-2016 15:32:00] - [INFO] Service started. 
+[26-08-2016 15:32:00] - [INFO] Main scheduler started. 
+[26-08-2016 15:32:00] - [INFO] Start writing info to History file. 
+[26-08-2016 15:32:00] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[26-08-2016 15:32:08] - [INFO] Got stop request. 
+[26-08-2016 15:32:08] - [INFO] Main scheduler stopped. 
+[26-08-2016 15:32:08] - [INFO] Finish write info to History file. 
+[26-08-2016 15:32:08] - [INFO] after accept. 
+[26-08-2016 15:32:08] - [INFO] befor for. 
+[26-08-2016 15:32:08] - [INFO] Network thread stoped. 
+[26-08-2016 15:32:08] - [INFO] Service stopped. 
+[26-08-2016 15:38:24] - [INFO] Settings successfully loaded from file. 
+[26-08-2016 15:38:24] - [INFO] Service is Starting.... 
+[26-08-2016 15:38:24] - [INFO] Service successfully registered. 
+[26-08-2016 15:38:24] - [INFO] Service started. 
+[26-08-2016 15:38:24] - [INFO] Main scheduler started. 
+[26-08-2016 15:38:24] - [INFO] Start writing info to History file. 
+[26-08-2016 15:38:24] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[26-08-2016 15:38:27] - [INFO] Got stop request. 
+[26-08-2016 15:38:27] - [INFO] Main scheduler stopped. 
+[26-08-2016 15:38:27] - [INFO] Finish write info to History file. 
+[26-08-2016 15:38:27] - [INFO] after accept. 
+[26-08-2016 15:38:27] - [INFO] befor for. 
+[26-08-2016 15:38:27] - [INFO] Network thread stoped. 
+[26-08-2016 15:38:27] - [INFO] Service stopped. 
+[26-08-2016 16:06:47] - [INFO] Settings successfully loaded from file. 
+[26-08-2016 16:06:47] - [INFO] Service is Starting.... 
+[26-08-2016 16:06:47] - [INFO] Service successfully registered. 
+[26-08-2016 16:06:47] - [INFO] Service started. 
+[26-08-2016 16:06:47] - [INFO] Main scheduler started. 
+[26-08-2016 16:06:47] - [INFO] Start writing info to History file. 
+[26-08-2016 16:06:47] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[26-08-2016 16:06:53] - [INFO] after accept. 
+[26-08-2016 16:06:53] - [INFO] after thread create. 
+[26-08-2016 16:06:53] - [INFO] befor for. 
+[26-08-2016 16:06:53] - [INFO] Got request from client, sender IP - 127.0.0.1. 
+[26-08-2016 16:06:53] - [INFO] Request from client - hist=all=5. 
+[26-08-2016 16:06:53] - [INFO] Succesful send answer to client. 
+[26-08-2016 16:10:48] - [INFO] after accept. 
+[26-08-2016 16:10:48] - [INFO] after thread create. 
+[26-08-2016 16:10:48] - [INFO] befor for. 
+[26-08-2016 16:10:48] - [INFO] Got request from client, sender IP - 127.0.0.1. 
+[26-08-2016 16:10:48] - [INFO] Request from client - hist=all=5. 
+[26-08-2016 16:10:49] - [INFO] Succesful send answer to client. 
+[26-08-2016 16:12:08] - [INFO] after accept. 
+[26-08-2016 16:12:08] - [INFO] after thread create. 
+[26-08-2016 16:12:08] - [INFO] befor for. 
+[26-08-2016 16:12:08] - [INFO] Got request from client, sender IP - 127.0.0.1. 
+[26-08-2016 16:12:08] - [INFO] Request from client - hist=all=5. 
+[26-08-2016 16:12:08] - [INFO] Succesful send answer to client. 
+[26-08-2016 16:12:24] - [INFO] after accept. 
+[26-08-2016 16:12:24] - [INFO] after thread create. 
+[26-08-2016 16:12:24] - [INFO] befor for. 
+[26-08-2016 16:12:24] - [INFO] Got request from client, sender IP - 127.0.0.1. 
+[26-08-2016 16:12:24] - [INFO] Request from client - hist=all=5. 
+[26-08-2016 16:12:24] - [INFO] Succesful send answer to client. 
+[26-08-2016 16:15:51] - [INFO] after accept. 
+[26-08-2016 16:15:51] - [INFO] after thread create. 
+[26-08-2016 16:15:51] - [INFO] befor for. 
+[26-08-2016 16:15:51] - [INFO] Got request from client, sender IP - 127.0.0.1. 
+[26-08-2016 16:15:51] - [INFO] Request from client - disk=d:\=2. 
+[26-08-2016 16:15:51] - [INFO] Succesful send answer to client. 
+[26-08-2016 16:16:44] - [INFO] after accept. 
+[26-08-2016 16:16:44] - [INFO] after thread create. 
+[26-08-2016 16:16:44] - [INFO] befor for. 
+[26-08-2016 16:16:44] - [INFO] Got request from client, sender IP - 127.0.0.1. 
+[26-08-2016 16:16:44] - [INFO] Request from client - disk=d:\=2. 
+[26-08-2016 16:16:44] - [INFO] Succesful send answer to client. 
+[26-08-2016 16:25:05] - [INFO] after accept. 
+[26-08-2016 16:25:05] - [INFO] after thread create. 
+[26-08-2016 16:25:05] - [INFO] befor for. 
+[26-08-2016 16:25:05] - [INFO] Got request from client, sender IP - 127.0.0.1. 
+[26-08-2016 16:25:05] - [INFO] Request from client - disk=d:\=2. 
+[26-08-2016 16:25:05] - [INFO] Succesful send answer to client. 
+[26-08-2016 16:27:18] - [INFO] after accept. 
+[26-08-2016 16:27:18] - [INFO] after thread create. 
+[26-08-2016 16:27:18] - [INFO] befor for. 
+[26-08-2016 16:27:18] - [INFO] Got request from client, sender IP - 127.0.0.1. 
+[26-08-2016 16:27:18] - [INFO] Request from client - disk=d:\=2. 
+[26-08-2016 16:27:18] - [INFO] Succesful send answer to client. 
+[26-08-2016 16:28:18] - [INFO] after accept. 
+[26-08-2016 16:28:18] - [INFO] after thread create. 
+[26-08-2016 16:28:18] - [INFO] befor for. 
+[26-08-2016 16:28:18] - [INFO] Got request from client, sender IP - 127.0.0.1. 
+[26-08-2016 16:28:18] - [INFO] Request from client - disk=d:\=2. 
+[26-08-2016 16:28:18] - [INFO] Succesful send answer to client. 
+[26-08-2016 17:14:31] - [INFO] Got stop request. 
+[26-08-2016 17:14:31] - [INFO] Finish write info to History file. 
+[26-08-2016 17:14:31] - [INFO] Main scheduler stopped. 
+[26-08-2016 17:14:31] - [INFO] after accept. 
+[26-08-2016 17:14:31] - [INFO] befor for. 
+[26-08-2016 17:14:31] - [INFO] Service stopped. 
+[30-08-2016 17:56:40] - [INFO] Settings successfully loaded from file. 
+[30-08-2016 17:56:40] - [INFO] Service is Starting.... 
+[30-08-2016 17:56:40] - [INFO] Service successfully registered. 
+[30-08-2016 17:56:40] - [INFO] Service started. 
+[30-08-2016 17:56:40] - [INFO] Main scheduler started. 
+[30-08-2016 17:56:40] - [INFO] Start writing info to History file. 
+[30-08-2016 17:56:40] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[30-08-2016 17:56:46] - [INFO] Service stopped. 
+[31-08-2016 10:46:25] - [INFO] Settings successfully loaded from file. 
+[31-08-2016 10:46:25] - [INFO] Service is Starting.... 
+[31-08-2016 10:46:25] - [INFO] Service started. 
+[31-08-2016 10:46:25] - [INFO] Start writing info to History file. 
+[31-08-2016 10:46:25] - [INFO] Main scheduler started. 
+[31-08-2016 10:46:25] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[31-08-2016 10:48:10] - [INFO] after accept. 
+[31-08-2016 10:48:10] - [INFO] after thread create. 
+[31-08-2016 10:48:10] - [INFO] befor for. 
+[31-08-2016 10:48:10] - [INFO] Got request from client, sender IP - 127.0.0.1. 
+[31-08-2016 10:48:10] - [INFO] Request from client - hist=all=20. 
+[31-08-2016 10:48:10] - [INFO] Succesful send answer to client. 
+[31-08-2016 10:49:43] - [INFO] Service stopped. 
+[31-08-2016 14:46:37] - [INFO] Eagle Logger Initialize failed. 
+[31-08-2016 14:46:37] - [INFO] Settings successfully loaded from file. 
+[31-08-2016 14:46:37] - [INFO] Service is Starting.... 
+[31-08-2016 14:46:37] - [INFO] Service started. 
+[31-08-2016 14:46:37] - [INFO] Service stopped. 
+[31-08-2016 14:46:37] - [INFO] Main scheduler started. 
+[31-08-2016 14:46:37] - [INFO] Start writing info to History file. 
+[31-08-2016 17:56:56] - [INFO] Eagle Logger Initialize failed. 
+[31-08-2016 17:56:56] - [INFO] Settings successfully loaded from file. 
+[31-08-2016 17:56:56] - [INFO] Service is Starting.... 
+[31-08-2016 17:56:56] - [INFO] Service started. 
+[31-08-2016 17:56:56] - [INFO] Service stopped. 
+[31-08-2016 17:56:56] - [INFO] Main scheduler started. 
+[31-08-2016 17:56:56] - [INFO] Start writing info to History file. 
+[31-08-2016 17:58:52] - [INFO] Eagle Logger Initialize failed. 
+[31-08-2016 17:58:52] - [INFO] Settings successfully loaded from file. 
+[31-08-2016 17:58:52] - [INFO] Service is Starting.... 
+[31-08-2016 17:58:52] - [INFO] Service started. 
+[31-08-2016 17:58:52] - [INFO] Service stopped. 
+[31-08-2016 17:58:52] - [INFO] Start writing info to History file. 
+[31-08-2016 17:58:52] - [INFO] Main scheduler started. 
+[31-08-2016 18:06:40] - [ERROR] Eagle Logger Initialize failed. 
+[31-08-2016 18:06:40] - [INFO] Settings successfully loaded from file. 
+[31-08-2016 18:06:40] - [INFO] Service is Starting.... 
+[31-08-2016 18:06:40] - [INFO] Service started. 
+[31-08-2016 18:06:40] - [INFO] Main scheduler started. 
+[31-08-2016 18:06:40] - [INFO] Service stopped. 
+[31-08-2016 18:06:40] - [INFO] Start writing info to History file. 
+[01-09-2016 10:45:03] - [INFO] Settings successfully loaded from file. 
+[01-09-2016 10:45:03] - [INFO] Service is Starting.... 
+[01-09-2016 10:45:03] - [INFO] Service started. 
+[01-09-2016 10:45:03] - [INFO] Main scheduler started. 
+[01-09-2016 10:45:03] - [INFO] Start writing info to History file. 
+[01-09-2016 10:45:03] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[01-09-2016 10:45:28] - [INFO] Service stopped. 
+[01-09-2016 10:57:12] - [INFO] Settings successfully loaded from file. 
+[01-09-2016 10:57:12] - [INFO] Service is Starting.... 
+[01-09-2016 10:57:12] - [INFO] Service started. 
+[01-09-2016 10:57:12] - [INFO] Main scheduler started. 
+[01-09-2016 10:57:12] - [INFO] Start writing info to History file. 
+[01-09-2016 10:57:12] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[01-09-2016 10:58:21] - [INFO] Service stopped. 
+[01-09-2016 11:07:32] - [INFO] Settings successfully loaded from file. 
+[01-09-2016 11:07:32] - [INFO] Service is Starting.... 
+[01-09-2016 11:07:32] - [INFO] Service started. 
+[01-09-2016 11:07:32] - [INFO] Main scheduler started. 
+[01-09-2016 11:07:32] - [INFO] Start writing info to History file. 
+[01-09-2016 11:07:32] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[01-09-2016 11:07:40] - [INFO] Service stopped. 
+[01-09-2016 11:11:23] - [INFO] Settings successfully loaded from file. 
+[01-09-2016 11:11:23] - [INFO] Service is Starting.... 
+[01-09-2016 11:11:23] - [INFO] Service started. 
+[01-09-2016 11:11:23] - [INFO] Main scheduler started. 
+[01-09-2016 11:11:23] - [INFO] Start writing info to History file. 
+[01-09-2016 11:11:23] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[01-09-2016 11:11:33] - [INFO] Service stopped. 
+[01-09-2016 11:13:31] - [INFO] Settings successfully loaded from file. 
+[01-09-2016 11:13:31] - [INFO] Service is Starting.... 
+[01-09-2016 11:13:31] - [INFO] Service started. 
+[01-09-2016 11:13:31] - [INFO] Main scheduler started. 
+[01-09-2016 11:13:31] - [INFO] Start writing info to History file. 
+[01-09-2016 11:13:31] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[01-09-2016 11:13:43] - [INFO] Service stopped. 
+[01-09-2016 11:14:19] - [INFO] Settings successfully loaded from file. 
+[01-09-2016 11:14:19] - [INFO] Service is Starting.... 
+[01-09-2016 11:14:19] - [INFO] Service started. 
+[01-09-2016 11:14:19] - [INFO] Main scheduler started. 
+[01-09-2016 11:14:19] - [INFO] Start writing info to History file. 
+[01-09-2016 11:14:19] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[01-09-2016 11:14:27] - [INFO] Service stopped. 
+[01-09-2016 11:29:05] - [INFO] Settings successfully loaded from file. 
+[01-09-2016 11:29:05] - [INFO] Service is Starting.... 
+[01-09-2016 11:29:05] - [INFO] Main scheduler started. 
+[01-09-2016 11:29:05] - [INFO] Service started. 
+[01-09-2016 11:29:05] - [INFO] Start writing info to History file. 
+[01-09-2016 11:29:05] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[01-09-2016 11:29:17] - [INFO] Service stopped. 
+[01-09-2016 11:31:42] - [INFO] Settings successfully loaded from file. 
+[01-09-2016 11:31:42] - [INFO] Service is Starting.... 
+[01-09-2016 11:31:42] - [INFO] Service started. 
+[01-09-2016 11:31:42] - [INFO] Main scheduler started. 
+[01-09-2016 11:31:42] - [INFO] Start writing info to History file. 
+[01-09-2016 11:31:42] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[01-09-2016 11:32:17] - [INFO] Service stopped. 
+[01-09-2016 11:36:44] - [INFO] Settings successfully loaded from file. 
+[01-09-2016 11:36:44] - [INFO] Service is Starting.... 
+[01-09-2016 11:36:44] - [INFO] Service started. 
+[01-09-2016 11:36:44] - [INFO] Main scheduler started. 
+[01-09-2016 11:36:44] - [INFO] Start writing info to History file. 
+[01-09-2016 11:36:44] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[01-09-2016 11:37:53] - [INFO] Service stopped. 
+[01-09-2016 11:38:35] - [INFO] Settings successfully loaded from file. 
+[01-09-2016 11:38:35] - [INFO] Service is Starting.... 
+[01-09-2016 11:38:35] - [INFO] Main scheduler started. 
+[01-09-2016 11:38:35] - [INFO] Service started. 
+[01-09-2016 11:38:35] - [INFO] Start writing info to History file. 
+[01-09-2016 11:38:35] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[01-09-2016 11:39:58] - [INFO] Service stopped. 
+[01-09-2016 11:40:13] - [INFO] Settings successfully loaded from file. 
+[01-09-2016 11:40:13] - [INFO] Service is Starting.... 
+[01-09-2016 11:40:13] - [INFO] Service started. 
+[01-09-2016 11:40:13] - [INFO] Main scheduler started. 
+[01-09-2016 11:40:13] - [INFO] Start writing info to History file. 
+[01-09-2016 11:40:13] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+[01-09-2016 14:24:46] - [INFO] Service stopped. 
+[01-09-2016 14:25:06] - [INFO] Start writing info to History file. 
+[01-09-2016 14:25:06] - [INFO] Listening socket successfully started, ReceivePort - 27020. 
+видалення всіх шредів в пулі:
+~CThreadPool()->StopWaitAndFreeAllThreads()->CancelAllPooledThreads()->CancelProc()->delete this;
