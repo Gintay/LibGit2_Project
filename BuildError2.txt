@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿
-=======
-﻿|--> Build configuration2:
->>>>>>> master
+﻿﻿|--> Build configuration2:
 	Target name: plugin_api.so, Configuration: RELEASE | x64
 	System: Linux, Number of CPUs: 4
 	Working directory: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build
