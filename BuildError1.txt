@@ -1,0 +1,40 @@
+|--> Build configuration:
+	Target name: emshell.bin, Configuration: RELEASE | x64
+	System: Linux, Number of CPUs: 4
+	Working directory: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build
+	Binary directory: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../bin
+	Configuration directory: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../bin/Release_Linux64
+	CC: gcc
+	FLAGS_C_ALL: -DUNIX=LINUX -DLINUX -D_GNU_SOURCE -DCPP11_ENABLED -DELFUTILS_VERSION=164 -DUNIX64 -DNDEBUG -D_PTHREADS -D_POSIX_PTHREAD_SEMANTICS -D_REENTRANT -D_THREAD_SAFE -D__STL_THREADS -D_PTHREADS -D_EMSHELL_ARCH_ -DEMSHELL -DNO_SOCKETS -DNO_NET_FUNCS -DNO_STDOUT_STDERR_MESSAGES -DNO_USERNAME_CONVERTING -DUSE_LIBLOGGER -DNO_DB -DUSE_FMTLIB -fPIC -m64 -g -O3 -ffast-math -funroll-loops -flto -pthread -Wformat -Wformat-security -Wuninitialized -Wunused-function -Wpointer-arith -Wunused-parameter -Wreturn-type -Wwrite-strings -Wsign-compare -Wshadow -Wunused-variable -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/emshell -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/emshell/commands -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/common -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/framework -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/util -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/versioninfo -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/util/platforms/UNIX -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/util/xmlparser -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../../../3rdparty/src -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../../../3rdparty/src/fmt -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../bin/Release_Linux64/emshell.bin_obj
+	CXX: g++
+	FLAGS_CXX_ALL: -DUNIX=LINUX -DLINUX -D_GNU_SOURCE -DCPP11_ENABLED -DELFUTILS_VERSION=164 -DUNIX64 -DNDEBUG -D_PTHREADS -D_POSIX_PTHREAD_SEMANTICS -D_REENTRANT -D_THREAD_SAFE -D__STL_THREADS -D_PTHREADS -D_EMSHELL_ARCH_ -DEMSHELL -DNO_SOCKETS -DNO_NET_FUNCS -DNO_STDOUT_STDERR_MESSAGES -DNO_USERNAME_CONVERTING -DUSE_LIBLOGGER -DNO_DB -DUSE_FMTLIB -fPIC -m64 -g -O3 -ffast-math -funroll-loops -flto -pthread -Wformat -Wformat-security -Wuninitialized -Wunused-function -Wpointer-arith -Wunused-parameter -Wreturn-type -Wwrite-strings -Wsign-compare -Wshadow -Wunused-variable -std=c++0x -m64 -g -O3 -ffast-math -funroll-loops -flto -pthread -Wformat -Wformat-security -Wuninitialized -Wunused-function -Wpointer-arith -Wunused-parameter -Wreturn-type -Wwrite-strings -Wsign-compare -Wshadow -Wunused-variable -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/emshell -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/emshell/commands -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/common -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/framework -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/util -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/versioninfo -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/util/platforms/UNIX -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/util/xmlparser -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../../../3rdparty/src -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../../../3rdparty/src/fmt -I/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../bin/Release_Linux64/emshell.bin_obj
+	LD: g++ , LDA: ar , LDSO: g++
+	FLAGS_LD_ALL:  -m64 -g -O3 -ffast-math -funroll-loops -flto  -L/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../bin/Release_Linux64 -Wl,--whole-archive  -Wl,--no-whole-archive -lstdc++ -lnsl -lrt -ldl -lpthread -lxmlparser -lzlibc -lelf -Wl,-rpath,'$$ORIGIN/../lib/3rdparty'
+	FLAGS_LDSO_ALL: -shared -z defs -Wl,--version-script=/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/mapfiles/.map -m64 -g -O3 -ffast-math -funroll-loops -flto  -L/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../bin/Release_Linux64 -Wl,--whole-archive  -Wl,--no-whole-archive -lstdc++ -lnsl -lrt -ldl -lpthread -lxmlparser -lzlibc -lelf -lpthread
+	FLAGS_LDA_ALL: -rcs
+	VPATH: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/emshell: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/emshell/commands: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/common: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/framework: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/util: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/versioninfo: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/util/platforms/UNIX: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/../../shared/util/xmlparser: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../../../3rdparty/src: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../../../3rdparty/src/fmt: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../bin/Release_Linux64/emshell.bin_obj:
+	Build log path: /home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../bin/Release_Linux64/emshell.bin_obj/build.log
+|--> Checking sources for existance... 
+  |--> Sources are ok!
+|--> Sources version: 2017
+.6
+.2
+.306
+|--> Compiling abstractservice.o... 
+|--> Compiling appsynctools.o... 
+|--> Compiling asserts.o... 
+|--> Compiling command_access_host.o... 
+  |--> Done appsynctools.o!
+|--> Compiling command_access_plugin.o... 
+/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/common/abstractservice.cpp: In member function ‘void CAbstractService::LogEvent(const char*, ...)’:
+/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/common/abstractservice.cpp:436:13: error: ‘LOGEVENT_MESSAGE_SIZE’ was not declared in this scope
+  char chMsg[LOGEVENT_MESSAGE_SIZE];
+             ^
+/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../sources/common/abstractservice.cpp:443:12: error: ‘chMsg’ was not declared in this scope
+  vsnprintf(chMsg, LOGEVENT_MESSAGE_SIZE - 1, pFormat, pArg);
+            ^
+make[2]: *** [/home/engineer/personals/vasyliv/Eagle1/Int/src/eaglemgr/build/../bin/Release_Linux64/emshell.bin_obj/abstractservice.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+  |--> Done asserts.o!
+  |--> Done command_access_host.o!
+  |--> Done command_access_plugin.o!
