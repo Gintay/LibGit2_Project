@@ -1,0 +1,129 @@
+==================== Eagle Log v2015 R2.14, 2016.12.4.303 ('D:/logs/eaglemgr/1220.bundlemgr.log') ====================
+Opened at 12/20/16 10:27:55.488 by 'cmdmgr.exe' module, PID: 0x1A30(6704), started at 12/20/16 10:27:55.477. Binary: 'D:/cmdmgr/cmdmgr.exe'
+Host Setting:
+	Name: WS-LV-CP1141.ELEKS-SOFTWARE.LOCAL
+	OS Version: 'Microsoft Windows 8 Enterprise Edition (build 9200), 64-bit'
+	CPU Cores: 4, CPU Brand String: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+	Time Zone: FLE Standard Time (UTC+2:00), Current UTC offset: 2 hour(s)
+	Total Physical Memory: 15.9 GB, Free Physical Memory: 11.3 GB (71.2%)
+	Free Disk Space: 150.4 GB (55.6%)
+Logging Settings:
+	Log Level: 1, Max Log File Size: 100 MB, Max Log Capacity: 1024 MB/min, Part: 0
+	Create New Log File Every: 24 hour(s)
+	Flush All - no, Show Date - yes, Show Log Level - yes, Show Process ID - no, Show Thread ID - yes, Show Time - yes, Open ErrorLog - no
+=====================================================================================================================
+
+    1700 - 12/20/16 10:27:55.518 [1] - [] ========================================
+    1700 - 12/20/16 10:27:55.518 [1] - [] === 'Eagle Bundle Manager' application has been started.
+    1700 - 12/20/16 10:27:55.518 [1] - [] ========================================
+    1700 - 12/20/16 10:27:55.518 [1] - [] File Version: 2016.12.4.303. Shared Version: 2016.8.2.91. Production Version: 2015 R2.14. TFS Branch Name: BR-15R2-MT
+    1700 - 12/20/16 10:27:55.518 [1] - [CBundleManagerSettings::ReadConfiguration] ERROR ! Failed to load configuration file 'D:/cmdmgr/config/emshell.ini'
+    1700 - 12/20/16 10:27:55.518 [1] - [CBundleManagerApplication::Initialize] WARNING ! Configuration hasn't been read. Using defaults
+    1700 - 12/20/16 10:27:55.518 [1] - [CRootsReader::Initialize] ERROR ! Configuration file roots.xml is not found. Default location of the file is 'D:/cfg/roots.xml'
+    1700 - 12/20/16 10:27:55.518 [1] - [CRootsXmlParser::GetPathByAlias] ERROR ! RootsReader is not initialized yet
+    1700 - 12/20/16 10:27:55.518 [1] - [!] 
+Bundle Manager settings:
+	Working directory: 'D:/cmdmgr'
+
+    1700 - 12/20/16 10:27:55.518 [1] - [CBundleManagerApplication::DumpArguments] 
+Arguments:
+
+    1700 - 12/20/16 10:27:55.518 [1] - [CBundleManagerApplication::Run] ParseArguments returned false. Showing the usage
+    1700 - 12/20/16 10:27:55.559 [1] - [] ========================================
+    1700 - 12/20/16 10:27:55.559 [1] - [] === 'Eagle Bundle Manager' application has been stopped.
+    1700 - 12/20/16 10:27:55.559 [1] - [] ========================================
+==================== Eagle Log v2015 R2.14, 2016.12.4.303 ('D:/logs/eaglemgr/1220.bundlemgr.log') ====================
+Opened at 12/20/16 10:34:12.018 by 'cmdmgr.exe' module, PID: 0x17A4(6052), started at 12/20/16 10:34:12.025. Binary: 'D:/cmdmgr/cmdmgr.exe'
+Host Setting:
+	Name: WS-LV-CP1141.ELEKS-SOFTWARE.LOCAL
+	OS Version: 'Microsoft Windows 8 Enterprise Edition (build 9200), 64-bit'
+	CPU Cores: 4, CPU Brand String: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+	Time Zone: FLE Standard Time (UTC+2:00), Current UTC offset: 2 hour(s)
+	Total Physical Memory: 15.9 GB, Free Physical Memory: 11.3 GB (70.8%)
+	Free Disk Space: 150.4 GB (55.6%)
+Logging Settings:
+	Log Level: 1, Max Log File Size: 100 MB, Max Log Capacity: 1024 MB/min, Part: 0
+	Create New Log File Every: 24 hour(s)
+	Flush All - no, Show Date - yes, Show Log Level - yes, Show Process ID - no, Show Thread ID - yes, Show Time - yes, Open ErrorLog - no
+=====================================================================================================================
+
+    1504 - 12/20/16 10:34:12.018 [1] - [] ========================================
+    1504 - 12/20/16 10:34:12.018 [1] - [] === 'Eagle Bundle Manager' application has been started.
+    1504 - 12/20/16 10:34:12.018 [1] - [] ========================================
+    1504 - 12/20/16 10:34:12.018 [1] - [] File Version: 2016.12.4.303. Shared Version: 2016.8.2.91. Production Version: 2015 R2.14. TFS Branch Name: BR-15R2-MT
+    1504 - 12/20/16 10:34:12.018 [1] - [CBundleManagerSettings::ReadConfiguration] ERROR ! Failed to load configuration file 'D:/cmdmgr/config/emshell.ini'
+    1504 - 12/20/16 10:34:12.018 [1] - [CBundleManagerApplication::Initialize] WARNING ! Configuration hasn't been read. Using defaults
+    1504 - 12/20/16 10:34:12.018 [1] - [CRootsReader::Initialize] ERROR ! Configuration file roots.xml is not found. Default location of the file is 'D:/cfg/roots.xml'
+    1504 - 12/20/16 10:34:12.018 [1] - [CRootsXmlParser::GetPathByAlias] ERROR ! RootsReader is not initialized yet
+    1504 - 12/20/16 10:34:12.018 [1] - [!] 
+Bundle Manager settings:
+	Working directory: 'D:/cmdmgr'
+
+    1504 - 12/20/16 10:34:12.018 [1] - [CBundleManagerApplication::DumpArguments] 
+Arguments:
+	tfs
+	--download=temp_workspace
+	--tfs_url=http://star-2011:7070/tfs
+	--domain=eleks-software.local
+	--user=yuriy.vasyliv
+	--password=1qaz@WSXgn
+	--tfs_path=$/Eleks/Training.C++/Yuriy.Vasyliv/TestFolder/3.zip
+	--server_path=D:\cmdmgr\download
+
+    1504 - 12/20/16 10:34:12.018 [1] - [CBundleManagerApplication::Run] Creating invoker for 'tfs' command...
+    1504 - 12/20/16 10:34:12.018 [1] - [CBundleManagerApplication::Run] Done! Starting the execution...
+    1504 - 12/20/16 10:34:12.038 [1] - [CCommandInvoker_TFSClient::Execute] ERROR ! 'download' argument is missed or invalid
+    1504 - 12/20/16 10:34:12.038 [1] - [CBundleManagerApplication::Run] Failed to execute invoker. Command name: 'tfs'
+    1504 - 12/20/16 10:34:12.038 [1] - [CBundleManagerApplication::Run] Done! Exiting with code 1
+    1504 - 12/20/16 10:34:12.038 [1] - [] ========================================
+    1504 - 12/20/16 10:34:12.038 [1] - [] === 'Eagle Bundle Manager' application has been stopped.
+    1504 - 12/20/16 10:34:12.038 [1] - [] ========================================
+==================== Eagle Log v2015 R2.14, 2016.12.4.303 ('D:/logs/eaglemgr/1220.bundlemgr.log') ====================
+Opened at 12/20/16 10:34:48.121 by 'cmdmgr.exe' module, PID: 0x944(2372), started at 12/20/16 10:34:48.121. Binary: 'D:/cmdmgr/cmdmgr.exe'
+Host Setting:
+	Name: WS-LV-CP1141.ELEKS-SOFTWARE.LOCAL
+	OS Version: 'Microsoft Windows 8 Enterprise Edition (build 9200), 64-bit'
+	CPU Cores: 4, CPU Brand String: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+	Time Zone: FLE Standard Time (UTC+2:00), Current UTC offset: 2 hour(s)
+	Total Physical Memory: 15.9 GB, Free Physical Memory: 11.3 GB (70.9%)
+	Free Disk Space: 150.4 GB (55.6%)
+Logging Settings:
+	Log Level: 1, Max Log File Size: 100 MB, Max Log Capacity: 1024 MB/min, Part: 0
+	Create New Log File Every: 24 hour(s)
+	Flush All - no, Show Date - yes, Show Log Level - yes, Show Process ID - no, Show Thread ID - yes, Show Time - yes, Open ErrorLog - no
+=====================================================================================================================
+
+     D30 - 12/20/16 10:34:48.121 [1] - [] ========================================
+     D30 - 12/20/16 10:34:48.121 [1] - [] === 'Eagle Bundle Manager' application has been started.
+     D30 - 12/20/16 10:34:48.121 [1] - [] ========================================
+     D30 - 12/20/16 10:34:48.121 [1] - [] File Version: 2016.12.4.303. Shared Version: 2016.8.2.91. Production Version: 2015 R2.14. TFS Branch Name: BR-15R2-MT
+     D30 - 12/20/16 10:34:48.121 [1] - [CBundleManagerSettings::ReadConfiguration] ERROR ! Failed to load configuration file 'D:/cmdmgr/config/emshell.ini'
+     D30 - 12/20/16 10:34:48.121 [1] - [CBundleManagerApplication::Initialize] WARNING ! Configuration hasn't been read. Using defaults
+     D30 - 12/20/16 10:34:48.121 [1] - [CRootsReader::Initialize] ERROR ! Configuration file roots.xml is not found. Default location of the file is 'D:/cfg/roots.xml'
+     D30 - 12/20/16 10:34:48.121 [1] - [CRootsXmlParser::GetPathByAlias] ERROR ! RootsReader is not initialized yet
+     D30 - 12/20/16 10:34:48.121 [1] - [!] 
+Bundle Manager settings:
+	Working directory: 'D:/cmdmgr'
+
+     D30 - 12/20/16 10:34:48.121 [1] - [CBundleManagerApplication::DumpArguments] 
+Arguments:
+	tfs
+	--download=file
+	--tfs_url=http://star-2011:7070/tfs
+	--domain=eleks-software.local
+	--user=yuriy.vasyliv
+	--password=1qaz@WSXgn
+	--tfs_path=$/Eleks/Training.C++/Yuriy.Vasyliv/TestFolder/3.zip
+	--server_path=D:\cmdmgr\download
+
+     D30 - 12/20/16 10:34:48.121 [1] - [CBundleManagerApplication::Run] Creating invoker for 'tfs' command...
+     D30 - 12/20/16 10:34:48.121 [1] - [CBundleManagerApplication::Run] Done! Starting the execution...
+     D30 - 12/20/16 10:34:48.121 [1] - [CCommandInvoker_TFSClient::Execute] About to execute 'download file' command, from 'http://star-2011:7070/tfs:$/Eleks/Training.C++/Yuriy.Vasyliv/TestFolder/3.zip' to 'D:\cmdmgr\download', logon 'eleks-software.local\yuriy.vasyliv'
+     D30 - 12/20/16 10:34:48.121 [1] - [CLibTfsClientCaller::Initialize] ERROR ! Failed to load library 'D:/cmdmgr/../../lib/libtfsclient.dll'. Error: The specified module could not be found
+     D30 - 12/20/16 10:34:48.121 [1] - [CCommandInvoker_TFSClient::InitializeTFSConnection] ERROR ! Failed to initialize 'LibTfsClientCaller' library. Failed to load library 'D:/cmdmgr/../../lib/libtfsclient.dll'. Error: The specified module could not be found
+     D30 - 12/20/16 10:34:48.121 [1] - [CCommandInvoker_TFSClient::Execute] ERROR ! Failed to initialize 'LibTfsClientCaller' library. Failed to load library 'D:/cmdmgr/../../lib/libtfsclient.dll'. Error: The specified module could not be found
+     D30 - 12/20/16 10:34:48.121 [1] - [CBundleManagerApplication::Run] Failed to execute invoker. Command name: 'tfs'
+     D30 - 12/20/16 10:34:48.121 [1] - [CBundleManagerApplication::Run] Done! Exiting with code 1
+     D30 - 12/20/16 10:34:48.121 [1] - [] ========================================
+     D30 - 12/20/16 10:34:48.121 [1] - [] === 'Eagle Bundle Manager' application has been stopped.
+     D30 - 12/20/16 10:34:48.121 [1] - [] ========================================
